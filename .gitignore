@@ -1,0 +1,19 @@
+
+# User-specific:
+.idea/
+
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+
+# Mac file system stuff
+.DS_Store
+
+# Don't include scala open source code 
+scalaOpenSource/
+
+target/
