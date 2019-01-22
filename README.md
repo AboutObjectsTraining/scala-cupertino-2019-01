@@ -17,7 +17,8 @@ January 22, 2019
 
 ## Author
 
-LeRoy Mattingly, leroy@aboutobjects.com
+LeRoy Mattingly, leroy@aboutobjects.com 
+Ed Robinson, ed@aboutobjects.com
 
 ## License
 
